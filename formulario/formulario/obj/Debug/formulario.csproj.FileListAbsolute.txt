@@ -1,0 +1,15 @@
+C:\Users\Laura\source\repos\formulario\formulario\bin\Debug\formulario.exe.config
+C:\Users\Laura\source\repos\formulario\formulario\bin\Debug\formulario.exe
+C:\Users\Laura\source\repos\formulario\formulario\bin\Debug\formulario.pdb
+C:\Users\Laura\source\repos\formulario\formulario\obj\Debug\formulario.csproj.AssemblyReference.cache
+C:\Users\Laura\source\repos\formulario\formulario\obj\Debug\MainWindow.g.cs
+C:\Users\Laura\source\repos\formulario\formulario\obj\Debug\App.g.cs
+C:\Users\Laura\source\repos\formulario\formulario\obj\Debug\formulario_MarkupCompile.cache
+C:\Users\Laura\source\repos\formulario\formulario\obj\Debug\formulario_MarkupCompile.lref
+C:\Users\Laura\source\repos\formulario\formulario\obj\Debug\MainWindow.baml
+C:\Users\Laura\source\repos\formulario\formulario\obj\Debug\formulario.g.resources
+C:\Users\Laura\source\repos\formulario\formulario\obj\Debug\formulario.Properties.Resources.resources
+C:\Users\Laura\source\repos\formulario\formulario\obj\Debug\formulario.csproj.GenerateResource.cache
+C:\Users\Laura\source\repos\formulario\formulario\obj\Debug\formulario.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\formulario\formulario\obj\Debug\formulario.exe
+C:\Users\Laura\source\repos\formulario\formulario\obj\Debug\formulario.pdb
